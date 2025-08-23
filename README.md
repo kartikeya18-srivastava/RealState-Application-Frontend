@@ -16,13 +16,13 @@ Provides a modern UI for browsing, buying, and managing properties with smooth n
 ---
 ## 📡 Pages
 
-/ – Home (Property Listings)
-/login – User Login
-/register – User Signup
-/property/:id – Property Details
-/bought – User Bought Properties
-/contact – Contact Form
-/admin – Admin Dashboard
+- / – Home (Property Listings)
+- /login – User Login
+- /register – User Signup
+- /property/:id – Property Details
+- /bought – User Bought Properties
+- /contact – Contact Form
+- /admin – Admin Dashboard
 
 ---
 
