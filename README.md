@@ -14,6 +14,17 @@ Provides a modern UI for browsing, buying, and managing properties with smooth n
 - Admin Dashboard for Property Management  
 
 ---
+## 📡 Pages
+
+/ – Home (Property Listings)
+/login – User Login
+/register – User Signup
+/property/:id – Property Details
+/bought – User Bought Properties
+/contact – Contact Form
+/admin – Admin Dashboard
+
+---
 
 ## ⚙️ Setup
 ```bash
@@ -25,13 +36,4 @@ bash```
 Run:
 npm start
 
-📡 Pages
-
-/ – Home (Property Listings)
-/login – User Login
-/register – User Signup
-/property/:id – Property Details
-/bought – User Bought Properties
-/contact – Contact Form
-/admin – Admin Dashboard
 
