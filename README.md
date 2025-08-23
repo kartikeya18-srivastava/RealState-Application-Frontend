@@ -1,12 +1,37 @@
-# React + Vite
+# 🏡 RealState Application Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Frontend for RealState App built with **React.js**.  
+Provides a modern UI for browsing, buying, and managing properties with smooth navigation.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- Responsive UI with React.js  
+- Property Listings (grid & detail view)  
+- Authentication (Login/Register)  
+- User Bought Properties Page  
+- Contact Form Integration  
+- Admin Dashboard for Property Management  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚙️ Setup
+```bash
+git clone https://github.com/your-username/RealState-Application-Frontend.git
+cd RealState-Application-Frontend
+npm install
+bash```
+
+Run:
+npm start
+
+📡 Pages
+
+/ – Home (Property Listings)
+/login – User Login
+/register – User Signup
+/property/:id – Property Details
+/bought – User Bought Properties
+/contact – Contact Form
+/admin – Admin Dashboard
+
